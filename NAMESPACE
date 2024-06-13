@@ -1,0 +1,3 @@
+useDynLib(MVSKFamily)
+importFrom(Rcpp, evalCpp)
+export("Rcpp.fake.fun")

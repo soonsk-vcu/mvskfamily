@@ -1,0 +1,17 @@
+{
+    "args": [
+        "-std=gnu++17",
+        "-IC:/PROGRA~1/R/R-44~1.0/include",
+        "-DNDEBUG",
+        "-IC:/Users/soonsk/AppData/Local/R/win-library/4.4/Rcpp/include",
+        "-IC:/Users/soonsk/AppData/Local/R/win-library/4.4/RcppEigen/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc"
+    ],
+    "pch": "RcppEigen",
+    "is_cpp": true,
+    "hash": "171828915517182891551718289155",
+    "compiler": "14695981039346656037",
+    "rversion": "4.4.0",
+    "dbversion": 4
+}
